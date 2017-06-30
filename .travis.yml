@@ -28,5 +28,4 @@ before_install:
  
 notifications:
   email:false
-    on_success: never
-    on_failure: never
+
