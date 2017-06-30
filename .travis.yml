@@ -26,7 +26,7 @@ android:
 before_install:
  - chmod +x gradlew
  
- notifications:
+notifications:
   email:false
     on_success: never
     on_failure: never
